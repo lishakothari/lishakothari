@@ -1,9 +1,4 @@
 - :wave: Hi, there!
-- :zap: My name is Lisha
-- 📫 Reach out to me: 
-  - :pencil2: [Email](lishakothari02@gmail.com)
-  - :office: [LinkedIn](https://www.linkedin.com/in/lisha-kothari)
-
 
 ![Lisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishakothari&show_icons=true&theme=radical)
 
